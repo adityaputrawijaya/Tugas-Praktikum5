@@ -5,7 +5,8 @@
 ``` 
 CREATE DATABASE latihan1;
 ```
-![Gambar1](Gambar/barbar1.png)
+[barbar1](https://user-images.githubusercontent.com/115687055/231219570-27e7978a-d022-4823-a190-f8cd90c9e0ea.png)
+
 ![Gambar1](Gambar/barbar2.png)
 
 
